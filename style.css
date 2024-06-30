@@ -429,7 +429,10 @@ nav a {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
- 
+     button 
+    {
+        cursor:pointer;
+    }
 }
 .explore-bottom i 
 {
